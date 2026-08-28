@@ -1,7 +1,7 @@
 # Hi, I'm Ranjith Reddy 👋
 
 <p align="center">
-  <img src="./assets/roles.svg" width="800">
+  <img src="./assets/roles.svg" width="1000">
 </p>
 
 
