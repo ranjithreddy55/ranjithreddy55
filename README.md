@@ -1,6 +1,7 @@
 # Hi, I'm Ranjith Reddy 👋
 
-### AI & Data Science Student | Python Developer | Full-Stack & AI/ML Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+Engineer;Deep+Learning+Engineer;Data+Scientist;Python+Developer)](https://git.io/typing-svg)
+
 
 I'm a B.Tech student specializing in **Artificial Intelligence and Data Science**, passionate about building practical software applications and AI-powered solutions.
 
