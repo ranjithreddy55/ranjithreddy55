@@ -1,12 +1,9 @@
-╭─────────────────────────────────────────────╮
-│  $ whoami                                   │
-│                                             │
-│  Ranjith Reddy                              │
-│                                             │
-│  > AI/ML Engineer_                          │
-│                                             │
-│  ███████████████░░░░  Building the future  │
-╰─────────────────────────────────────────────╯
+# Hi, I'm Ranjith Reddy 👋
+
+<p align="center">
+  <img src="./assets/roles.svg" width="800">
+</p>
+
 
 </p>
 
