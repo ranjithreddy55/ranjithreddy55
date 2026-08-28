@@ -1,8 +1,13 @@
-# Hi, I'm Ranjith Reddy 👋
+╭─────────────────────────────────────────────╮
+│  $ whoami                                   │
+│                                             │
+│  Ranjith Reddy                              │
+│                                             │
+│  > AI/ML Engineer_                          │
+│                                             │
+│  ███████████████░░░░  Building the future  │
+╰─────────────────────────────────────────────╯
 
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Engineer;Deep+Learning+Engineer;Data+Scientist;Python+Developer)](https://git.io/typing-svg)
 
 </p>
 
