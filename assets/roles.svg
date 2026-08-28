@@ -1,0 +1,139 @@
+<svg width="800" height="180" viewBox="0 0 800 180"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#00f5ff"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect x="5" y="5" width="790" height="170"
+        rx="25" fill="url(#bg)"
+        stroke="#30363d"/>
+
+  <!-- Name -->
+  <text x="400" y="48"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold"
+        fill="#ffffff">
+    RANJITH REDDY
+  </text>
+
+  <!-- Role 1 -->
+  <text x="400" y="105"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="30"
+        font-weight="bold"
+        fill="url(#text)"
+        filter="url(#glow)">
+    💻 Full-Stack Developer
+
+    <animate attributeName="opacity"
+             values="1;1;0;0;0"
+             keyTimes="0;0.15;0.2;0.95;1"
+             dur="10s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 2 -->
+  <text x="400" y="105"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="30"
+        font-weight="bold"
+        fill="url(#text)"
+        filter="url(#glow)"
+        opacity="0">
+    🤖 AI/ML Engineer
+
+    <animate attributeName="opacity"
+             values="0;0;1;1;0"
+             keyTimes="0;0.15;0.2;0.35;0.4"
+             dur="10s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 3 -->
+  <text x="400" y="105"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="30"
+        font-weight="bold"
+        fill="url(#text)"
+        filter="url(#glow)"
+        opacity="0">
+    🧠 Deep Learning Engineer
+
+    <animate attributeName="opacity"
+             values="0;0;1;1;0"
+             keyTimes="0;0.35;0.4;0.55;0.6"
+             dur="10s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 4 -->
+  <text x="400" y="105"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="30"
+        font-weight="bold"
+        fill="url(#text)"
+        filter="url(#glow)"
+        opacity="0">
+    📊 Data Scientist
+
+    <animate attributeName="opacity"
+             values="0;0;1;1;0"
+             keyTimes="0;0.55;0.6;0.75;0.8"
+             dur="10s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 5 -->
+  <text x="400" y="105"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="30"
+        font-weight="bold"
+        fill="url(#text)"
+        filter="url(#glow)"
+        opacity="0">
+    🐍 Python Developer
+
+    <animate attributeName="opacity"
+             values="0;0;1;1;0"
+             keyTimes="0;0.75;0.8;0.95;1"
+             dur="10s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="400" y="145"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        fill="#8b949e">
+    AI &amp; Data Science • Building intelligent solutions
+  </text>
+
+</svg>
