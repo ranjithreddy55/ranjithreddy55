@@ -1,8 +1,10 @@
 # Hi, I'm Ranjith Reddy 👋
 
 <p align="center">
-  <img src="./assets/roles.svg" width="1000">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=💻+Full-Stack+Developer;🤖+AI%2FML+Engineer;🧠+Deep+Learning+Engineer;📊+Data+Scientist;🐍+Python+Developer" />
 </p>
+
 
 
 </p>
