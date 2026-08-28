@@ -1,8 +1,7 @@
 # Hi, I'm Ranjith Reddy 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Engineer;Deep+Learning+Engineer;Data+Scientist;Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A1A1AA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI%2FML+Engineer;Deep+Learning+Engineer;Data+Scientist;Python+Developer)](https://git.io/typing-svg)
 
-I'm a B.Tech student specializing in Artificial Intelligence and Data Science, passionate about building practical software applications and AI-powered solutions.
 
 
 
